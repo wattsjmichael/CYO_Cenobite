@@ -1,0 +1,8 @@
+We awaken in a small dark room. The smell of sulfur and death surrounds us. We are bound by leather binds. In the distance we can hear yells for help and the clanging of metal. 
+
+We could try to tear at the binds or we can scream for help.
+
+What should we do?
+
+1. Tear at the binds
+2. Scream for help

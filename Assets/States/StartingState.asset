@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21e6e63eecfce6a40be00af6f7d163cd, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "We awaken in a small dark room. The smell of sulfur and death surrounds
+    us. We are bound by leather binds. In the distance we can hear yells for help
+    and the clanging of metal. \r\n\r\nWe could try to tear at the binds or we can
+    scream for help.\r\n\r\nWhat should we do?\r\n\r\n1. Tear at the binds\r\n2. Scream
+    for help"
+  nextStates:
+  - {fileID: 11400000, guid: e99ba351afd552142b9f072060c0ec37, type: 2}
+  - {fileID: 11400000, guid: 341af7078db562546867b909fcc51f51, type: 2}
